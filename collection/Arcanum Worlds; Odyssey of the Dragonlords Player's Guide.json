@@ -3085,7 +3085,7 @@
 			"level": 3,
 			"entries": [
 				"The Amazons are a warrior culture that emphasize the strength of the individual, in contrast to societies that defend themselves with large armies of hoplites and mounted cavalry. A typical Amazonian conclave will outline its territory, usually an island, and fight viciously to drive away trespassers. When the territory is threatened, they may band together into war parties, whose collective battlecries are said to strike fear into enemies up to a mile away.",
-				"A lone Amazonian huntress relies upon her mechanical companion, an avian {@creature stimfay|OotDL}, for support in battle. Every huntress learns to build and repair these mechanical birds when they are young, often forming deep and lasting bonds with the strange creatures. Each huntress is formidable in close quarters with her deadly {@item shortsword|PHB|kopis} blade, but she also trains with an exotic ranged weapon called the {@item chakram|OotDL}.",
+				"A lone Amazonian huntress relies upon her mechanical companion, an avian {@monster stimfay|OotDL}, for support in battle. Every huntress learns to build and repair these mechanical birds when they are young, often forming deep and lasting bonds with the strange creatures. Each huntress is formidable in close quarters with her deadly {@item shortsword|PHB|kopis} blade, but she also trains with an exotic ranged weapon called the {@item chakram|OotDL}.",
 				"Amazonian conclaves are ruled by women, and huntresses are almost exclusively female. Men are generally regarded as the weaker sex, but they may be trained in the arts on occasion\u2014for example, when a mother who wishes for a daughter is given a son instead.",
 				{
 					"name": "Amazonian Magic",
@@ -3130,7 +3130,7 @@
 				{
 					"name": "Stimfay Companion",
 					"entries": [
-						"At 3rd level, you construct a {@creature stimfay|OotDL} companion to accompany you on your travels. Stimfay are clockwork birds of prey that assist an Amazon with stalking her quarry. Choose from the following list of creatures for your stimfay's appearance: eagle, harrier, hawk, kite, osprey, owl, or archaeopteryx. Your stimfay's appearance does not affect its abilities, but it does influence its personality.",
+						"At 3rd level, you construct a {@monster stimfay|OotDL} companion to accompany you on your travels. Stimfay are clockwork birds of prey that assist an Amazon with stalking her quarry. Choose from the following list of creatures for your stimfay's appearance: eagle, harrier, hawk, kite, osprey, owl, or archaeopteryx. Your stimfay's appearance does not affect its abilities, but it does influence its personality.",
 						"In areas that are open to the sky, you can direct your stimfay to spend 10 minutes scouting the surrounding 1 mile radius and report back to you with anything it has seen. It comprehends instructions that you give it in any language. It speaks in a series of clicks and squawks that only you can understand.",
 						"The stimfay obeys your commands to the best of its abilities, and it acts on your initiative in combat. If you are incapacitated, your stimfay acts on its own.",
 						"Your stimfay has hit points equal to 15 + your ranger level, and it adds your proficiency bonus to its attacks, damage, saving throws, and ability save DCs. It regains any lost hit points during a long rest. If it is ever destroyed, you may spend 8 hours to fully repair it."
